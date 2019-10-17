@@ -36,3 +36,19 @@ html{
  h1{
 
  }
+ .middle-container{
+
+ }
+ .skills img{
+     width:100px;
+ }
+ .img-skill1{
+    float: left;
+    margin-right:1rem;
+    margin-top: 1rem; 
+}
+ .img-skill2{
+    float: left;
+    margin-right:1rem;
+    margin-top: 1rem;
+ }
